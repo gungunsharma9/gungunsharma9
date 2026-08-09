@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Gungun%20Sharma&fontSize=40&fontColor=ffffff" />
-</p>
+<h1 align="center">Hi, I'm Gungun Sharma 👋</h1>
 
 <h3 align="center">
   <span style="color:#58A6FF;">🛠️ Building real-world tech from ideas</span>
@@ -8,12 +6,6 @@
 
 <p align="center">
   🤖 AI/ML • NLP • Speech Intelligence
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,mysql" />
 </p>
 
 ---
@@ -32,12 +24,6 @@
 
 📊 <b>Evaluation</b> — Precision • Recall • MRR • MAP • NDCG  
 
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-4d4e-9a6e-4c27e1a7b5d1.gif" width="400"/>
 </p>
 
 ---
@@ -95,10 +81,4 @@
 <a href="mailto:gungunsharma0904@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer"/>
 </p>
