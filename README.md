@@ -62,7 +62,6 @@
 ### ⚙️ Tools & Systems
 <p align="center">
 <img src="https://img.shields.io/badge/FAISS-grey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NetworkX-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
