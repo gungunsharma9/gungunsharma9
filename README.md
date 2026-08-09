@@ -18,11 +18,11 @@
 
 <br>
 
-🗣️ <b>NLP & Speech</b> — BiLSTM • HuBERT  
+🗣️ <b>NLP & Speech Intelligence</b> — BiLSTM • HuBERT • Sequence Modeling  
 
 <br>
 
-📊 <b>Evaluation</b> — Precision • Recall • MRR • MAP • NDCG  
+⚙️ <b>System Building</b> — Designing end-to-end ML pipelines and integrating models into usable applications  
 
 </p>
 
