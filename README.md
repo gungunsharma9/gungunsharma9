@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'm Gungun Sharma 👋</h1>
 
-<p align="center">
-💻 Java | Python  
+<p align="center"> 
 <br>
 🛠️ Working on ideas that feel worth building  
-<br>
-🤖 Exploring AI/ML and real-world applications  
 </p>
 
 ---
