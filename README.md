@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  🤖 AI/ML • NLP • Speech Intelligence
+  🤖 AI/ML • NLP • Software Development
 </p>
 
 ---
