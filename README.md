@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Gungun Sharma 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Gungun%20Sharma&fontSize=40&fontColor=ffffff" />
+</p>
 
 <h3 align="center">
-  <span styl="color:#58A6FF;"><font color="blue">🛠️ Building real-world tech from ideas</font></span>
+  <span style="color:#58A6FF;">🛠️ Building real-world tech from ideas</span>
 </h3>
 
 <p align="center">
-  🤖 AI/ML • NLP 
+  🤖 AI/ML • NLP • Speech Intelligence
 </p>
 
 ---
@@ -81,4 +83,10 @@
 <a href="mailto:gungunsharma0904@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer"/>
 </p>
