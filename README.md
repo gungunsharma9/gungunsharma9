@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,mysql" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 <p align="center">
@@ -26,6 +32,12 @@
 
 📊 <b>Evaluation</b> — Precision • Recall • MRR • MAP • NDCG  
 
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-4d4e-9a6e-4c27e1a7b5d1.gif" width="400"/>
 </p>
 
 ---
