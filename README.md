@@ -4,27 +4,14 @@
   <span style="color:#58A6FF;">🛠️ Building real-world tech from ideas</span>
 </h3>
 
-<p align="center">
-  🤖 AI/ML • NLP • Software Development
-</p>
-
 ---
 
-## 🎯 Current Focus
+## 🎓 Education
 
-<p align="center">
-
-🧠 <b>Retrieval Systems</b> — GraphRAG • FAISS • Transformer Embeddings  
-
-<br>
-
-🗣️ <b>NLP & Speech Intelligence</b> — BiLSTM • HuBERT • Sequence Modeling  
-
-<br>
-
-⚙️ <b>System Building</b> — Designing end-to-end ML pipelines and integrating models into usable applications  
-
-</p>
+* 🎓 **Master of Computer Applications (MCA)** | *University of Calcutta* (2024–2026) <!--[cite: 19]-->
+  * 🏆 **CGPA:** 9.15 (Highest)
+* 🎓 **Bachelor of Science (B.Sc.) in Computer Science** | *The Bhawanipur Education Society College* (2021–2024) <!--[cite: 19]-->
+  * 🏆 **CGPA:** 8.007 (Third Highest)
 
 ---
 
@@ -77,7 +64,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:gungunsharma0904@gmail.com">
+<a href="mailto:gungunsharma0904@gmail.com"> 
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
