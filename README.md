@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gungun Sharma 👋</h1>
 
 <h3 align="center">
-  <span style="color:#58A6FF;">🛠️ Building real-world tech from ideas</span>
+  <span style="color:#58A6FF;">🛠️ Building real-world tech from ideas </span>
 </h3>
 
 ---
