@@ -9,7 +9,6 @@
 ## 🎓 Education
 
 * 🎓 **Master of Computer Applications (MCA)** | *University of Calcutta* (2024–2026) <!--[cite: 19]-->
-  * 🏆 **CGPA:** 9.15 (Highest)
 * 🎓 **Bachelor of Science (B.Sc.) in Computer Science** | *The Bhawanipur Education Society College* (2021–2024) <!--[cite: 19]-->
   * 🏆 **CGPA:** 8.007 (Third Highest)
 
